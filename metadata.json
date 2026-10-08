@@ -1,0 +1,7 @@
+{
+  "name": "Fake Order Checker",
+  "description": "Check customer courier delivery success rate and prevent fake orders for Bangladeshi e-commerce sellers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
